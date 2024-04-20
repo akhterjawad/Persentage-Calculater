@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./image/1000_F_237185889_HdOSY7atHltVVUE47eTM4FmdekQI4XaB.jpg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+}
+input{
+    width: 20%;
+    height: 40px;
+    padding: 5px;
+    border:3px solid #00c0ff;
+    outline: none;
+}
