@@ -23,8 +23,8 @@ function calculatePercentage() {
     percentage.innerHTML = studentPercentage;
 
 
-    if (studentPercentage >= 100) {
-        grade.innerHTML = 'A<sup>1+</sup>'
+    if (studentPercentage >= 101) {
+        grade.innerHTML = 'Try Again!'
     } else if (studentPercentage >= 90) {
         grade.innerHTML = 'A<sup>1+</sup>'
     } else if (studentPercentage >= 80) {
